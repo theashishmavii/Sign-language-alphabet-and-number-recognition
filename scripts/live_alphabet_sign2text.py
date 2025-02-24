@@ -8,7 +8,7 @@ import time  # Time module for handling time-based updates
 
 # ------------------------------- Load the Pretrained Model -------------------------------
 
-model = load_model("C:/Sign-language Project/cnn_alphabet_and_number_model.h5")  # Load trained model
+model = load_model("Path to the trained model")  # Load trained model
 image_size = 64  # Define image size for resizing
 
 # ------------------------------- Define Labels Mapping -------------------------------
