@@ -60,7 +60,6 @@ The **goal** of this project is to bridge this gap by providing a **real-time si
 ![23](https://github.com/user-attachments/assets/fffa40bc-2ad6-4fe0-a127-1881705c680d)
 ![24](https://github.com/user-attachments/assets/afc2cb53-bdba-4b98-9cc7-983f83eb62e2)
 ![23](https://github.com/user-attachments/assets/1057a35b-576e-4e63-b73c-137fee7b608f)
-![590](https://github.com/user-attachments/assets/fee9d9af-43d5-402d-8b7a-27cadc880af7)
 ![23](https://github.com/user-attachments/assets/baa50593-b18d-4d93-abca-7d215fb4caa5)
 ![11](https://github.com/user-attachments/assets/d7d1650c-184c-439c-847e-114b5543d236)
 ![11](https://github.com/user-attachments/assets/45f44444-9e45-4550-9f5f-e7804a93fc1c)
