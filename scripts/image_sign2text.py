@@ -6,7 +6,7 @@ from keras.models import load_model  # Load trained deep learning model
 
 # ------------------------------- Load the Pretrained Model -------------------------------
 
-model = load_model("C:/Sign-language Project/cnn_alphabet_and_number_model.h5")  # Load trained model for alphabet & number recognition
+model = load_model("Path to the trained model")  # Load trained model for alphabet & number recognition
 image_size = 64  # Define input image size expected by the model
 
 # ------------------------------- Define Label Mappings -------------------------------
@@ -18,7 +18,7 @@ labels_dict.update({26 + i: str(i + 1) for i in range(9)})  # 1-9 (26-34)
 # ------------------------------- Load and Validate Image -------------------------------
 
 # Define image path (update this according to the dataset)
-image_path = "C:/Sign-language Project/datasets/ISL dataset/B/2.jpg"  
+image_path = "test image path"  
 image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)  # Load image in grayscale
 
 # Check if the image is loaded correctly
