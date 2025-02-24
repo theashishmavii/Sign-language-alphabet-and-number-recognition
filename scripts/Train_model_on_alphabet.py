@@ -11,7 +11,7 @@ from keras.utils import to_categorical  # Converting labels to one-hot encoding
 
 # ------------------------------- Define Dataset Path and Parameters -------------------------------
 
-dataset_path = "C:/Sign-language Project/datasets/ISL dataset/Alphabet frame details.xlsx"  # Path to dataset
+dataset_path = "path_to_the_xlsx_sheet or datset"  # Path to dataset
 image_size = 64  # Image size for resizing
 num_classes = 35  # Total number of classes (A-Z, 1-9)
 
